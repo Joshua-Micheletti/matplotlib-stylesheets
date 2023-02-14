@@ -25,7 +25,7 @@ text.color: 0.9
 axes.labelcolor: 0.9
 xtick.color: 0.9
 ytick.color: 0.9
-grid.color: 2A3459
+grid.color: 737373
 
 # Custom
 font.sans-serif: Overpass, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
